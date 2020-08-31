@@ -1,4 +1,3 @@
-# A Digital PID controller implemented on a Digilent NEXYS 4 DDR FPGA 
+# Digital PID Controller implemented on Xilinx Artix-7
 
-Implemented in Verilog HDL 
-Includes ADC/DAC drivers for Digilent PMOD AD1/DA2 
+Implemented in Verilog HDL, includes ADC/DAC drivers for Digilent PMOD AD1/DA2 
